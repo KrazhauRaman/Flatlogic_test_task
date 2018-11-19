@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/flatlogic_test_task/precache-manifest.18c1d26db3051ae386fa2000cae8d2ac.js"
+  "/flatlogic_test_task/precache-manifest.a39848cbdd9d0e4157e4b5feca520fce.js"
 );
 
 workbox.clientsClaim();
