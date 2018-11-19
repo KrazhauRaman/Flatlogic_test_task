@@ -8,6 +8,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+body button:hover {
+  cursor:pointer;
+}
+
+body button:disabled:hover {
+  cursor:default;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
